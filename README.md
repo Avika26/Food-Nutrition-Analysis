@@ -83,7 +83,7 @@ Food-Nutrition-Analysis/
 ## 🚀 How to Run
 
 - **Clone this repository:**
-git clone https://github.com/yourusername/Food-Nutrition-Analysis.git
+git clone https://github.com/Avika26/Food-Nutrition-Analysis.git
 
 - **Navigate to the project folder:**
 cd Food-Nutrition-Analysis
