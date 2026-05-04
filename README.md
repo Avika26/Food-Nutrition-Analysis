@@ -68,11 +68,31 @@ I analyzed the USDA Nutrition Dataset containing **335 food items** and built th
 ---
 
 ## 📁 Project Structure
+```bash
 Food-Nutrition-Analysis/
 ├── notebooks/
-│   └── Food_Nutrition_Analysis.ipynb
+│   └── Food_Nutrition_Analysis.ipynb          # Main Jupyter Notebook
 ├── data/
-│   └── nutrients_csvfile.csv
+│   └── nutrients_csvfile.csv                  # Dataset
 ├── README.md
 ├── requirements.txt
 └── .gitignore
+
+```
+---
+## 🚀 How to Run
+
+- **Clone this repository:**
+git clone https://github.com/yourusername/Food-Nutrition-Analysis.git
+
+- **Navigate to the project folder:**
+cd Food-Nutrition-Analysis
+
+- **Install dependencies:**
+pip install -r requirements.txt
+
+- **Place nutrients_csvfile.csv** inside the data/ folder.
+
+- **Start Jupyter Notebook:**
+jupyter notebook notebooks/Food_Nutrition_Analysis.ipynb
+---
