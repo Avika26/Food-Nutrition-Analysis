@@ -68,3 +68,11 @@ I analyzed the USDA Nutrition Dataset containing **335 food items** and built th
 ---
 
 ## 📁 Project Structure
+Food-Nutrition-Analysis/
+├── notebooks/
+│   └── Food_Nutrition_Analysis.ipynb
+├── data/
+│   └── nutrients_csvfile.csv
+├── README.md
+├── requirements.txt
+└── .gitignore
